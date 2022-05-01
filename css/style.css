@@ -16,7 +16,6 @@ body{
 
 .container{
   width: 100vw;
-  height: auto;
   max-width: 23.457rem;
   margin: 2rem;
   background-color: hsl(0, 0%, 100%);
